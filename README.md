@@ -16,7 +16,7 @@ ogbn-arxiv
 The model is 6 layers, and runs 500 epochs, run:
 
 ```bash
-python ogbn_sage_CS.py
+python sage_res_6layers_Smooth.py
 ```
 
 ## Result:
