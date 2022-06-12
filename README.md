@@ -23,8 +23,8 @@ python sage_res_6layers_Smooth.py
 
 ```bash
 All runs:
-Highest Train: 96.79 ± 0.08
-Highest Valid: 73.98 ± 0.10
-  Final Train: 95.04 ± 0.05
-   Final Test: 72.90 ± 0.27
+Highest Train: 0.9506±0.0003
+Highest Valid: 0.7407±0.0013
+  Final Train: 0.9504±0.0005
+   Final Test: 0.7306±0.0016
 ```
